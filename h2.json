@@ -1,0 +1,15 @@
+{
+  "proxies": [
+    {
+      "name": "hy2-142.171.160.149",
+      "type": "hysteria2",
+      "server": "142.171.160.149",
+      "port": 8888,
+      "password": "5e1abdf6-85b1-47d9-bf45-4872a64f9c60",
+      "alpn": [
+        "h3"
+      ],
+      "skip-cert-verify": true
+    }
+  ]
+}
